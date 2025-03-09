@@ -1,4 +1,4 @@
-![imagem](img/logica_desenvolvedor_programacao_python.jpeg)
+![imagem](img/logica_desenvolvedor_programacao_python.png)
 
 Bora estudar! 
 
