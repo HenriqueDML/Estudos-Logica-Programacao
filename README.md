@@ -4,7 +4,7 @@ Bora estudar!
 
 Conteúdo do repositório.
 
-Pedi para o GPT gerar 7 questões com 5 níveis diferentes, sendo eles:
+Pedi para uma IA gerar 7 questões com 5 níveis diferentes, sendo eles:
 
 🔰 Iniciante: Introdução à sintaxe básica, entrada e saída de dados, e pequenos ajustes em códigos simples.
 
